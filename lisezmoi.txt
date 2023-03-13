@@ -1,0 +1,2 @@
+Les commandes^pour apprendre le Guid
+git commit -m "Modif lisezmoi"
